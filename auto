@@ -1,0 +1,3 @@
+# This file created by: nmon -g auto
+# It is an automatically generated disk-group file which excluses disk paritions
+mmcblk0 mmcblk0
